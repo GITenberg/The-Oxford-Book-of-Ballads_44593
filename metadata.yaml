@@ -1,0 +1,32 @@
+_repo: The-Oxford-Book-of-Ballads_44593
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44593-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    - Quiller-Couch, Sir Arthur Thomas
+    - Q
+    - Quiller-Couch, Arthur Thomas
+    birthdate: 1863
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+description: ''
+gutenberg_issued: '2014-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ballads, English -- Great Britain -- Texts'
+- !lcc 'PR'
+title: The Oxford Book of Ballads
+url: http://www.gutenberg.org/ebooks/44593
